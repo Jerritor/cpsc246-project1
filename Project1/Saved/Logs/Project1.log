@@ -1134,3 +1134,157 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.01-17.18.22:311][118]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.01-17.18.22:311][118]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.10.01-17.18.22:311][118]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.01-17.19.25:436][737]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.10.01-17.24.38:161][549]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::K2_ClearTimer' [The specified module could not be found.]
+[2021.10.01-17.28.57:673][944]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.10.01-17.28.57:795][944]LogSavePackage: Moving '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Saved/ThirdPersonExampleMap_Auto19E43D12244800D38F08CB99F6172EDE1.tmp' to '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.10.01-17.28.57:798][944]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.161
+[2021.10.01-17.28.57:798][944]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.161
+[2021.10.01-17.28.57:799][944]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2021.10.01-17.28.57:821][944]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.10.01-17.28.57:822][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.10.01-17.28.57:857][944]LogSavePackage: Moving '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Saved/ThirdPersonCharacter_Auto1D51A08B1433C3A0E368E169598ABA4A7.tmp' to '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2021.10.01-17.28.57:859][944]LogFileHelpers: Auto-saving content packages took 0.060
+[2021.10.01-17.30.50:769][606]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.01-17.31.37:171][561]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.10.01-17.31.37:240][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.10.01-17.31.39:285][603]LogSavePackage: Moving '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Saved/ThirdPersonCharacter6A8546A54056C75B68034589682DCE45.tmp' to '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.10.01-17.31.39:318][603]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.10.01-17.31.39:318][603]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.10.01-17.31.54:218][814]MapCheck: New page: Map Check
+[2021.10.01-17.31.54:379][814]Cmd: MAP REBUILD ALLVISIBLE
+[2021.10.01-17.31.54:380][814]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.10.01-17.31.54:504][814]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2021.10.01-17.31.54:638][814]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.10.01-17.31.54:639][814]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.10.01-17.31.54:639][814]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.10.01-17.31.54:733][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.10.01-17.31.54:801][814]LogLevel: Display: Export Material TexCoord Scales took 0.066 seconds.
+[2021.10.01-17.31.54:806][814]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2021.10.01-17.31.54:831][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.10.01-17.31.54:849][814]LightingResults: New page: Lighting Build - Oct 1, 2021, 3:31:54 AM
+[2021.10.01-17.31.54:866][814]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.10.01-17.31.54:871][814]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.10.01-17.31.54:871][814]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.10.01-17.31.54:873][814]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.10.01-17.31.54:873][814]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12660
+[2021.10.01-17.31.59:458][814]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.10.01-17.31.59:458][814]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.10.01-17.31.59:458][814]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.10.01-17.31.59:458][814]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.10.01-17.31.59:458][814]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.10.01-17.31.59:596][814]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.10.01-17.31.59:596][814]MapCheck: New page: ThirdPersonExampleMap - Oct 1, 2021, 3:31:59 AM
+[2021.10.01-17.31.59:598][814]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.729ms to complete.
+[2021.10.01-17.31.59:601][814]LogEditorBuildUtils: Build time 0:05
+[2021.10.01-17.31.59:621][814]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.01-17.31.59:621][814]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2021.10.01-17.31.59:621][814]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2021.10.01-17.31.59:621][814]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2021.10.01-17.31.59:621][814]LogShaderCompilers: Display: ================================================
+[2021.10.01-17.31.59:831][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.10.01-17.32.04:844][909]Job is a success!
+[2021.10.01-17.32.05:226][910]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2021.10.01-17.32.05:226][910]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.10.01-17.32.05:227][910]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2021.10.01-17.32.05:227][910]LogVolumetricLightmapImport:      Bricks at depth
+[2021.10.01-17.32.05:227][910]LogVolumetricLightmapImport:          0: 1.6% covering 100.0% of volume
+[2021.10.01-17.32.05:227][910]LogVolumetricLightmapImport:          1: 6.2% covering 6.2% of volume
+[2021.10.01-17.32.05:227][910]LogVolumetricLightmapImport:          2: 92.2% covering 1.4% of volume
+[2021.10.01-17.32.05:227][910]LogVolumetricLightmapImport:      Bricks in each level
+[2021.10.01-17.32.05:227][910]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 64 bricks 	 100.0% (Persistent Level)
+[2021.10.01-17.32.05:679][910]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2021.10.01-17.32.05:679][910]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2021.10.01-17.32.05:679][910]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.01-17.32.05:679][910]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.01-17.32.05:679][910]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 512X512)
+[2021.10.01-17.32.05:679][910]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 512X512)
+[2021.10.01-17.32.05:679][910]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 512X256)
+[2021.10.01-17.32.05:679][910]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 1024X512)
+[2021.10.01-17.32.05:679][910]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2021.10.01-17.32.05:679][910]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 1024X1024)
+[2021.10.01-17.32.05:679][910]LogTexture: Display: Building textures: SkyOcclusion0_4 (OODLE_AutoDXT, 64X32)
+[2021.10.01-17.32.05:679][910]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 64X64)
+[2021.10.01-17.32.05:679][910]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 1024X1024)
+[2021.10.01-17.32.05:679][910]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.01-17.32.05:679][910]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 64X64)
+[2021.10.01-17.32.05:679][910]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.01-17.32.05:679][910]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.01-17.32.05:679][910]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.01-17.32.05:879][910]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 64X32)
+[2021.10.01-17.32.05:879][910]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 512X256)
+[2021.10.01-17.32.05:919][910]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X1024)
+[2021.10.01-17.32.05:919][910]Lightmass on LAPTOP-2KR7FJ4L: 5.50 sec total, 161 ms importing, 65 ms setup, 1.28 sec photons, 3.96 sec processing, 0 ms extra exporting [480/480 mappings]. Threads: 59.5 sec total, 26.9 sec processing.
+[2021.10.01-17.32.05:921][910]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 327 meshes in 6 LightmapResourceClusters (54.5 Meshes per cluster).
+[2021.10.01-17.32.05:959][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.10.01-17.32.06:069][910]LogStaticLightingSystem: Illumination: 11.0 sec (267 ms encoding lightmaps, 218 ms encoding shadowmaps)
+[2021.10.01-17.32.06:069][910]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (5.3 MB streaming, 0.7 MB non-streaming), 8 textures
+[2021.10.01-17.32.06:069][910]LogStaticLightingSystem: Shadowmap texture memory: 6.0 MB (5.3 MB streaming, 0.7 MB non-streaming), 3 textures
+[2021.10.01-17.32.06:462][910]DumpUnbuiltLightIteractions
+[2021.10.01-17.32.06:462][910]Lights with unbuilt interactions: 0
+[2021.10.01-17.32.06:462][910]
+[2021.10.01-17.32.06:462][910]Primitives with unbuilt interactions: 0
+[2021.10.01-17.32.06:689][910]LogTexture: Display: Building textures: NewReflectionComponentTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.10.01-17.32.06:878][911]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.10.01-17.32.06:878][911]MapCheck: New page: ThirdPersonExampleMap - Oct 1, 2021, 3:32:06 AM
+[2021.10.01-17.32.06:880][911]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.889ms to complete.
+[2021.10.01-17.32.10:181][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.10.01-17.32.10:301][987]LogSavePackage: Moving '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Saved/ThirdPersonExampleMap4B45459D404AAFB6E548E19177BD9018.tmp' to '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.01-17.32.10:478][987]LogSavePackage: Moving '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Saved/ThirdPersonExampleMap_BuiltData0512F19E47B9842B8A28109CD8579FD5.tmp' to '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.10.01-17.32.10:529][987]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.01-17.32.10:529][987]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.10.01-17.32.10:529][987]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.01-17.32.12:489][ 11]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-17.32.12:498][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-17.32.12:498][ 11]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 1, 2021, 3:32:12 AM)
+[2021.10.01-17.32.12:498][ 11]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.01-17.32.12:535][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036563s)
+[2021.10.01-17.32.12:536][ 11]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.10.01-17.32.12:537][ 11]LogPlayLevel: PIE: World Init took: (0.001850s)
+[2021.10.01-17.32.12:537][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.038715s)
+[2021.10.01-17.32.12:567][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.10.01-17.32.12:567][ 11]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.10.01-17.32.12:568][ 11]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-17.32.12:568][ 11]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-17.32.12:568][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-17.32.12:568][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-17.32.12:568][ 11]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-17.32.12:568][ 11]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-17.32.12:568][ 11]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-17.32.12:568][ 11]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-17.32.12:568][ 11]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.01-17.32.12:568][ 11]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.01-17.32.12:569][ 11]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.01-17.32.12:569][ 11]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-17.32.12:573][ 11]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-17.32.12:573][ 11]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-17.32.12:598][ 11]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.10.01-17.32.12:598][ 11]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-17.32.12:598][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-17.32.12:599][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-17.32.12:599][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-17.32.12:599][ 11]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.01-17.32.12:599][ 11]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.01-17.32.12:600][ 11]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.01-17.32.12:600][ 11]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.01-17.32.12:600][ 11]LogInit: FAudioDevice initialized.
+[2021.10.01-17.32.12:600][ 11]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.10.01-17.32.12:614][ 11]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-17.32.12:622][ 11]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.10.01-10.32.12
+[2021.10.01-17.32.12:623][ 11]LogWorld: Bringing up level for play took: 0.008243
+[2021.10.01-17.32.12:623][ 11]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.10.01-17.32.12:626][ 11]PIE: Server logged in
+[2021.10.01-17.32.12:627][ 11]PIE: Play in editor total start time 0.131 seconds.
+[2021.10.01-17.32.15:286][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-17.32.21:347][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-17.32.21:347][272]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.01-17.32.21:347][272]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-17.32.21:349][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-17.32.21:366][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-17.32.21:370][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-17.32.21:394][272]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.01-17.32.21:395][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.01-17.32.21:396][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.01-17.32.21:401][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-17.32.21:405][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.10.01-17.32.21:430][273]LogPlayLevel: Display: Destroying online subsystem :Context_7
