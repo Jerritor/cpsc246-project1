@@ -1349,10 +1349,3 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
  with error DXGI_ERROR_DEVICE_REMOVED 00000000
 [2021.10.06-18.21.17:748][ 85]LogD3D11RHI: [Aftermath] GDynamicRHI=0000021054227940, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
 [2021.10.06-18.21.17:748][ 85]LogWindows: Windows GetLastError: The operation completed successfully. (0)
-[2021.10.06-18.21.18:782][ 86]LogWindows: FPlatformMisc::RequestExit(0)
-[2021.10.06-18.21.18:782][ 86]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
-[2021.10.06-18.21.18:782][ 86]LogCore: Engine exit requested (reason: Win RequestExit)
-[2021.10.06-18.21.18:782][ 86]LogWindows: FPlatformMisc::RequestExit(1)
-[2021.10.06-18.21.18:782][ 86]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
-[2021.10.06-18.21.18:782][ 86]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
-[2021.10.06-18.21.18:792][ 86]Log file closed, 10/06/21 11:21:18
