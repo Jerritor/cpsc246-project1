@@ -953,3 +953,68 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.18-22.00.03:889][127]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.18-22.00.03:889][127]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.10.18-22.00.03:889][127]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.18-22.01.37:255][989]LogSlate: Window 'HUD' being destroyed
+[2021.10.18-22.01.37:318][989]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.10.18-22.01.37:319][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.18-22.01.37:326][989]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.10.18-22.01.37:326][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.18-22.01.40:650][ 63]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/HUD.HUD
+[2021.10.18-22.03.37:889][863]BlueprintLog: New page: Compile HUD
+[2021.10.18-22.03.37:974][863]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.10.18-22.05.56:272][522]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.10.18-22.06.56:171][ 82]BlueprintLog: New page: Compile HUD
+[2021.10.18-22.06.56:245][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.10.18-22.07.00:163][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HUD" FILE="../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/HUD.uasset" SILENT=true
+[2021.10.18-22.07.00:176][159]LogSavePackage: Moving '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Saved/HUD1BB618F8408AFBA486BA709E127F1A06.tmp' to '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/HUD.uasset'
+[2021.10.18-22.07.00:228][159]AssetCheck: New page: Asset Save: HUD
+[2021.10.18-22.07.00:228][159]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/HUD.HUD
+[2021.10.18-22.08.01:076][404]Cmd: TRANSACTION UNDO
+[2021.10.18-22.08.01:076][404]LogEditorTransaction: Undo Remove Widget
+[2021.10.18-22.08.40:743][403]BlueprintLog: New page: Compile HUD
+[2021.10.18-22.08.40:798][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.10.18-22.10.14:194][325]LogEditorTransaction: Undo Move Node
+[2021.10.18-22.10.14:683][334]LogEditorTransaction: Undo Add Node
+[2021.10.18-22.10.15:084][342]LogEditorTransaction: Undo Move Node
+[2021.10.18-22.10.15:552][351]LogEditorTransaction: Undo Add Node
+[2021.10.18-22.10.15:951][359]LogEditorTransaction: Undo Move Node
+[2021.10.18-22.10.16:402][368]LogEditorTransaction: Undo Move Node
+[2021.10.18-22.10.16:752][375]LogEditorTransaction: Undo Move Node
+[2021.10.18-22.10.17:102][382]LogEditorTransaction: Undo Add Node
+[2021.10.18-22.10.17:552][391]LogEditorTransaction: Undo Rename Widget
+[2021.10.18-22.10.17:964][399]LogEditorTransaction: Undo Rename Widget
+[2021.10.18-22.10.18:514][410]LogEditorTransaction: Undo Rename Widget
+[2021.10.18-22.10.19:014][420]LogEditorTransaction: Undo Rename Widget
+[2021.10.18-22.10.21:297][464]BlueprintLog: New page: Compile HUD
+[2021.10.18-22.10.21:369][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.10.18-22.10.22:095][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HUD" FILE="../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/HUD.uasset" SILENT=true
+[2021.10.18-22.10.22:108][473]LogSavePackage: Moving '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Saved/HUDF9C8E9C246009AFA9917DEA3FD6CC2E4.tmp' to '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/HUD.uasset'
+[2021.10.18-22.10.22:160][473]AssetCheck: New page: Asset Save: HUD
+[2021.10.18-22.10.22:160][473]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/HUD.HUD
+[2021.10.18-22.11.25:866][ 14]BlueprintLog: New page: Compile HUD
+[2021.10.18-22.11.25:930][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.10.18-22.11.27:548][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HUD" FILE="../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/HUD.uasset" SILENT=true
+[2021.10.18-22.11.27:562][ 45]LogSavePackage: Moving '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Saved/HUD1026D50A46A2E2F078D0A1B58E4B518C.tmp' to '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/HUD.uasset'
+[2021.10.18-22.11.27:616][ 45]AssetCheck: New page: Asset Save: HUD
+[2021.10.18-22.11.27:616][ 45]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/HUD.HUD
+[2021.10.18-22.12.56:594][185]BlueprintLog: New page: Compile HUD
+[2021.10.18-22.12.56:648][185]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.10.18-22.12.57:350][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HUD" FILE="../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/HUD.uasset" SILENT=true
+[2021.10.18-22.12.57:364][199]LogSavePackage: Moving '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Saved/HUD9C8535CC4C9E7054099D96B7F86A54B2.tmp' to '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/HUD.uasset'
+[2021.10.18-22.12.57:413][199]AssetCheck: New page: Asset Save: HUD
+[2021.10.18-22.12.57:413][199]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/HUD.HUD
+[2021.10.18-22.14.18:111][973]BlueprintLog: New page: Compile HUD
+[2021.10.18-22.14.18:172][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.10.18-22.14.18:801][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HUD" FILE="../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/HUD.uasset" SILENT=true
+[2021.10.18-22.14.18:819][984]LogSavePackage: Moving '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Saved/HUD6A1C53D649D86D846B879289EF88C09B.tmp' to '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/HUD.uasset'
+[2021.10.18-22.14.18:864][984]AssetCheck: New page: Asset Save: HUD
+[2021.10.18-22.14.18:864][984]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/HUD.HUD
+[2021.10.18-22.14.22:762][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.10.18-22.14.22:886][ 77]LogSavePackage: Moving '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Saved/ThirdPersonExampleMapB2EFB72741B1D92F0B30BE9CC97F1986.tmp' to '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.18-22.14.23:063][ 77]LogSavePackage: Moving '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Saved/ThirdPersonExampleMap_BuiltData717BD95F49A02B984A6C5DB5A615B14E.tmp' to '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.10.18-22.14.23:111][ 77]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.18-22.14.23:111][ 77]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.10.18-22.14.23:111][ 77]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.18-22.14.29:512][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.18-22.14.30:241][258]LogEditorViewport: Clicking on Actor (LMB): Collectible_C (Collectible3)
+[2021.10.18-22.14.35:324][409]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.10.18-22.14.36:369][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
