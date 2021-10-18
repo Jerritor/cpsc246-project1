@@ -930,3 +930,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.18-21.50.17:406][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2021.10.18-21.50.17:410][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.10.18-21.50.17:520][  3]LogSlate: Took 0.000746 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.18-21.52.38:006][781]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.18-21.52.38:068][781]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/HUD.HUD
+[2021.10.18-21.52.38:283][781]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.10.18-21.52.39:390][781]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.18-21.52.44:664][859]LogSlate: Took 0.004349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.10.18-21.55.09:693][754]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.10.18-21.55.10:263][765]LogEditorTransaction: Undo Rename Widget
+[2021.10.18-21.55.11:007][780]LogEditorTransaction: Undo Rename Widget
+[2021.10.18-21.55.11:958][799]LogEditorTransaction: Redo Rename Widget
+[2021.10.18-21.55.12:308][806]LogEditorTransaction: Redo Rename Widget
+[2021.10.18-21.59.56:607][974]BlueprintLog: New page: Compile HUD
+[2021.10.18-21.59.56:678][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.10.18-21.59.57:378][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HUD" FILE="../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/HUD.uasset" SILENT=true
+[2021.10.18-21.59.57:393][986]LogSavePackage: Moving '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Saved/HUDF8FC57404AA80F5559F49DBE1E6D374F.tmp' to '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/HUD.uasset'
+[2021.10.18-21.59.57:444][986]AssetCheck: New page: Asset Save: HUD
+[2021.10.18-21.59.57:444][986]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/HUD.HUD
+[2021.10.18-22.00.00:773][ 79]LogSlate: Took 0.001188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.18-22.00.03:412][127]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.10.18-22.00.03:560][127]LogSavePackage: Moving '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Saved/ThirdPersonExampleMapB43F971D4BF3C99D98559E98536226EC.tmp' to '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.18-22.00.03:856][127]LogSavePackage: Moving '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Saved/ThirdPersonExampleMap_BuiltData55A28F5B46C51899DB4AEFADBAB7B677.tmp' to '../../../../../../Users/jambt/Desktop/Github/cpsc246-project1/Project1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.10.18-22.00.03:889][127]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.18-22.00.03:889][127]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.10.18-22.00.03:889][127]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
