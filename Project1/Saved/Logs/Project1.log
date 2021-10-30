@@ -1426,3 +1426,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.30-02.18.04:276][214]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.30-02.18.04:276][214]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.10.30-02.18.04:276][214]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.30-02.19.00:680][  3]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/HUD.HUD
+[2021.10.30-02.22.10:795][599]BlueprintLog: New page: Compile HUD
+[2021.10.30-02.22.10:861][599]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.10.30-02.22.12:455][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HUD" FILE="../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/HUD.uasset" SILENT=true
+[2021.10.30-02.22.12:467][762]LogSavePackage: Moving '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Saved/HUDE28E49FE46D8A7A67902C59552934D4E.tmp' to '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/HUD.uasset'
+[2021.10.30-02.22.12:478][762]AssetCheck: New page: Asset Save: HUD
+[2021.10.30-02.22.12:478][762]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/HUD.HUD
