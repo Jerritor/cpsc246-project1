@@ -21,6 +21,7 @@
 - Increment the collectible counter on collectible pickup
 - Create a Minigame with active states in the scene
 - Add an interactible 'Start Game' Pillar to start the minigame
+
 As well as learning about:
   - Casting
   - Timers
