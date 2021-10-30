@@ -1303,3 +1303,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.30-02.08.07:390][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.10.30-02.08.07:395][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
 [2021.10.30-02.08.07:427][120]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.10.30-02.09.13:433][100]Cmd: TRANSACTION UNDO
+[2021.10.30-02.09.13:433][100]LogEditorTransaction: Undo Create Actors
+[2021.10.30-02.09.50:188][279]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.30-02.10.22:208][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.10.30-02.10.22:325][974]LogSavePackage: Moving '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Saved/ThirdPersonExampleMapE23968D74676450E9DECD2B723A8EB0E.tmp' to '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.30-02.10.22:469][974]LogSavePackage: Moving '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Saved/ThirdPersonExampleMap_BuiltData82C2EF524E7B69550130109A0D133210.tmp' to '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.10.30-02.10.22:481][974]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.30-02.10.22:481][974]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.10.30-02.10.22:481][974]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
