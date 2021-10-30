@@ -2932,3 +2932,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.30-03.39.22:315][489]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.30-03.39.22:315][489]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.10.30-03.39.22:315][489]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.30-03.53.44:343][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.30-03.53.44:457][261]LogSavePackage: Moving '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Saved/ThirdPersonExampleMapD38DEC5246A95B3D66D3F7B9915274C6.tmp' to '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.30-03.53.44:595][261]LogSavePackage: Moving '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Saved/ThirdPersonExampleMap_BuiltData5DF2810C4280D415296120B964C92D75.tmp' to '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.10.30-03.53.44:605][261]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.30-03.53.44:605][261]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.10.30-03.53.44:605][261]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
