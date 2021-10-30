@@ -1312,3 +1312,117 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.30-02.10.22:481][974]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.30-02.10.22:481][974]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.10.30-02.10.22:481][974]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.30-02.11.34:367][211]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2021.10.30-02.11.49:363][416]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/PillarCollectible.PillarCollectible
+[2021.10.30-02.13.00:308][521]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Collectible.Collectible
+[2021.10.30-02.14.00:231][307]BlueprintLog: New page: Compile PillarCollectible
+[2021.10.30-02.14.00:234][307]LogBlueprint: Error: [AssetLog] D:\Users\jetorres\Documents\GitHub\cpsc246-project1\Project1\Content\ThirdPersonBP\Blueprints\PillarCollectible.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.10.30-02.14.00:282][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.10.30-02.14.00:326][307]LogSlate: Took 0.006755 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.30-02.14.02:373][506]LogSavePackage: Moving '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Saved/PillarCollectibleA72C18BE40706594A7BD0EBF99C79EE2.tmp' to '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/PillarCollectible.uasset'
+[2021.10.30-02.14.02:383][506]AssetCheck: New page: Asset Save: PillarCollectible
+[2021.10.30-02.14.02:383][506]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/PillarCollectible.PillarCollectible
+[2021.10.30-02.14.14:768][831]BlueprintLog: New page: Compile PillarCollectible
+[2021.10.30-02.14.14:810][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.10.30-02.14.17:622][115]LogSavePackage: Moving '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Saved/PillarCollectibleD8B923864D716FCB156C8DAE0D9689EF.tmp' to '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/PillarCollectible.uasset'
+[2021.10.30-02.14.17:632][115]AssetCheck: New page: Asset Save: PillarCollectible
+[2021.10.30-02.14.17:632][115]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/PillarCollectible.PillarCollectible
+[2021.10.30-02.14.30:966][574]BlueprintLog: New page: Compile PillarCollectible
+[2021.10.30-02.14.31:007][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.10.30-02.14.31:565][624]LogSavePackage: Moving '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Saved/PillarCollectible87AA36FD4568F47B23C3F880C9880B78.tmp' to '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/PillarCollectible.uasset'
+[2021.10.30-02.14.31:575][624]AssetCheck: New page: Asset Save: PillarCollectible
+[2021.10.30-02.14.31:575][624]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/PillarCollectible.PillarCollectible
+[2021.10.30-02.15.18:367][840]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.10.30-02.15.18:412][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.10.30-02.15.18:896][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.10.30-02.15.19:004][884]LogSavePackage: Moving '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Saved/ThirdPersonExampleMap0297F034481DDE4C87B70CA8F134586B.tmp' to '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.30-02.15.19:008][884]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.134
+[2021.10.30-02.15.19:023][884]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.10.30-02.15.19:023][884]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.30-02.15.29:981][ 43]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.10.30-02.15.29:981][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.30-02.15.35:404][591]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Collectible.Collectible
+[2021.10.30-02.16.18:390][362]LogSavePackage: Moving '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Saved/PillarCollectible6243B79349D71B2067D7E7B2FB414C4B.tmp' to '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/PillarCollectible.uasset'
+[2021.10.30-02.16.18:401][362]AssetCheck: New page: Asset Save: PillarCollectible
+[2021.10.30-02.16.18:401][362]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/PillarCollectible.PillarCollectible
+[2021.10.30-02.16.19:214][454]BlueprintLog: New page: Compile PillarCollectible
+[2021.10.30-02.16.19:263][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.10.30-02.16.19:893][525]BlueprintLog: New page: Compile PillarCollectible
+[2021.10.30-02.16.19:934][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.10.30-02.16.28:183][427]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.10.30-02.16.28:229][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.10.30-02.16.29:471][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.10.30-02.16.29:579][559]LogSavePackage: Moving '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Saved/ThirdPersonExampleMapC63D011F40ADB96C383229B84AA3A924.tmp' to '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.30-02.16.29:583][559]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.134
+[2021.10.30-02.16.29:594][559]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.10.30-02.16.29:594][559]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.30-02.16.47:787][513]LogBlueprint: Warning: [AssetLog] D:\Users\jetorres\Documents\GitHub\cpsc246-project1\Project1\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: [Compiler] Pasted node  CustomEvent   conflicted with  OnActorEndOverlap (PillarTrigger)  and was replaced as a Custom Event!
+[2021.10.30-02.17.01:608][958]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.10.30-02.17.01:655][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.10.30-02.17.02:818][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.10.30-02.17.02:927][ 58]LogSavePackage: Moving '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Saved/ThirdPersonExampleMapE39C273345F2588ACAD611BCE8D9BAD3.tmp' to '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.30-02.17.02:931][ 58]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.135
+[2021.10.30-02.17.02:941][ 58]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.10.30-02.17.02:941][ 58]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.30-02.17.07:321][548]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.30-02.17.07:325][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.30-02.17.07:325][548]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 29, 2021, 12:17:07 PM)
+[2021.10.30-02.17.07:353][548]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.30-02.17.07:384][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030855s)
+[2021.10.30-02.17.07:384][548]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.10.30-02.17.07:385][548]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2021.10.30-02.17.07:385][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.032183s)
+[2021.10.30-02.17.07:408][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.10.30-02.17.07:410][548]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.10.30-02.17.07:410][548]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.30-02.17.07:410][548]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.30-02.17.07:410][548]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.30-02.17.07:410][548]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.30-02.17.07:410][548]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.30-02.17.07:410][548]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.30-02.17.07:410][548]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.30-02.17.07:410][548]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.30-02.17.07:410][548]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.30-02.17.07:410][548]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.30-02.17.07:410][548]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.30-02.17.07:410][548]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.30-02.17.07:416][548]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.30-02.17.07:416][548]LogAudioMixer: Display: 1: FrontRight
+[2021.10.30-02.17.07:425][548]LogAudioMixer: Display: Using Audio Device ASUS PB278 (NVIDIA High Definition Audio)
+[2021.10.30-02.17.07:426][548]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.30-02.17.07:426][548]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.30-02.17.07:426][548]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.30-02.17.07:426][548]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.30-02.17.07:426][548]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.30-02.17.07:426][548]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.30-02.17.07:427][548]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.30-02.17.07:427][548]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.30-02.17.07:427][548]LogInit: FAudioDevice initialized.
+[2021.10.30-02.17.07:427][548]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2021.10.30-02.17.07:438][548]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.30-02.17.07:446][548]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.10.29-19.17.07
+[2021.10.30-02.17.07:446][548]LogWorld: Bringing up level for play took: 0.007230
+[2021.10.30-02.17.07:446][548]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.10.30-02.17.07:449][548]PIE: Server logged in
+[2021.10.30-02.17.07:449][548]PIE: Play in editor total start time 0.125 seconds.
+[2021.10.30-02.17.10:319][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-02.17.19:280][964]LogBlueprintUserMessages: [CollectibleMinigame_6] Player Won!
+[2021.10.30-02.17.28:447][ 64]LogBlueprintUserMessages: [CollectibleMinigame_6] Player Won!
+[2021.10.30-02.17.37:404][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-02.17.37:404][134]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.30-02.17.37:404][134]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.30-02.17.37:405][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.30-02.17.37:418][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.30-02.17.37:434][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.30-02.17.37:456][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-02.17.37:456][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.30-02.17.37:457][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.30-02.17.37:463][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.10.30-02.17.37:496][135]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.10.30-02.17.51:438][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.30-02.18.04:018][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.10.30-02.18.04:129][214]LogSavePackage: Moving '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Saved/ThirdPersonExampleMapF570BAD745F5A8DA541BA0991D24EAF7.tmp' to '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.30-02.18.04:262][214]LogSavePackage: Moving '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Saved/ThirdPersonExampleMap_BuiltData67931220401CC04F1D4741A3086756AF.tmp' to '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.10.30-02.18.04:276][214]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.30-02.18.04:276][214]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.10.30-02.18.04:276][214]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
