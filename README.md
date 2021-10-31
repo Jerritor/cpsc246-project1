@@ -21,6 +21,7 @@
 - Increment the collectible counter on collectible pickup
 - Create a Minigame with active states in the scene
 - Add an interactible 'Start Game' Pillar to start the minigame
+- Implementing sprinting which uses the energy bar
 
 As well as learning about:
   - Casting
@@ -29,3 +30,4 @@ As well as learning about:
   - Custom Events
   - Refactoring blueprints
   - Designing functions for OOP
+  - Character movement attributes
