@@ -2213,3 +2213,79 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.31-00.44.53:232][317]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.31-00.44.53:232][317]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.10.31-00.44.53:232][317]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.31-00.45.29:046][795]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.31-00.45.29:051][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.31-00.45.29:051][795]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 30, 2021, 10:45:29 AM)
+[2021.10.31-00.45.29:087][795]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.31-00.45.29:117][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030005s)
+[2021.10.31-00.45.29:118][795]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.10.31-00.45.29:118][795]LogPlayLevel: PIE: World Init took: (0.001139s)
+[2021.10.31-00.45.29:118][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.031344s)
+[2021.10.31-00.45.29:139][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.10.31-00.45.29:141][795]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.10.31-00.45.29:141][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.31-00.45.29:141][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.31-00.45.29:141][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.31-00.45.29:141][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.31-00.45.29:141][795]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.31-00.45.29:141][795]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.31-00.45.29:141][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.31-00.45.29:141][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.31-00.45.29:142][795]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.31-00.45.29:142][795]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.31-00.45.29:142][795]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.31-00.45.29:142][795]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.31-00.45.29:147][795]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.31-00.45.29:147][795]LogAudioMixer: Display: 1: FrontRight
+[2021.10.31-00.45.29:156][795]LogAudioMixer: Display: Using Audio Device ASUS PB278 (NVIDIA High Definition Audio)
+[2021.10.31-00.45.29:156][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.31-00.45.29:156][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.31-00.45.29:156][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.31-00.45.29:156][795]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.31-00.45.29:156][795]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.31-00.45.29:156][795]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.31-00.45.29:157][795]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.31-00.45.29:157][795]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.31-00.45.29:157][795]LogInit: FAudioDevice initialized.
+[2021.10.31-00.45.29:157][795]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonExampleMap'.
+[2021.10.31-00.45.29:166][795]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.31-00.45.29:173][795]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.10.30-17.45.29
+[2021.10.31-00.45.29:173][795]LogWorld: Bringing up level for play took: 0.007052
+[2021.10.31-00.45.29:174][795]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.10.31-00.45.29:176][795]PIE: Server logged in
+[2021.10.31-00.45.29:176][795]PIE: Play in editor total start time 0.127 seconds.
+[2021.10.31-00.45.32:045][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.31-00.45.47:938][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.31-00.45.47:938][ 40]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.31-00.45.47:938][ 40]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.31-00.45.47:939][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.31-00.45.47:948][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.31-00.45.47:964][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.31-00.45.47:981][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.31-00.45.47:982][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.31-00.45.47:983][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.31-00.45.47:988][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.10.31-00.45.48:027][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.10.31-00.48.21:264][986]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.10.31-00.48.21:318][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.10.31-00.48.21:828][ 18]LogSavePackage: Moving '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Saved/ThirdPersonCharacter95FCA928485B36EAEC524DB9B7AC235D.tmp' to '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.10.31-00.48.21:840][ 18]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.10.31-00.48.21:840][ 18]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.10.31-00.48.38:369][624]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.10.31-00.48.38:426][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.10.31-00.49.13:810][667]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.10.31-00.49.13:866][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.10.31-00.49.14:642][717]LogSavePackage: Moving '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Saved/ThirdPersonCharacter77E4CE4545EF5758E1ED92BBA779D6B4.tmp' to '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.10.31-00.49.14:653][717]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.10.31-00.49.14:653][717]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.10.31-00.50.16:216][337]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.10.31-00.50.16:273][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.10.31-00.50.16:857][369]LogSavePackage: Moving '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Saved/ThirdPersonCharacter2B4950474CB49DBA94C82390CFF628E1.tmp' to '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.10.31-00.50.16:868][369]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.10.31-00.50.16:868][369]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.10.31-00.50.18:690][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.10.31-00.50.18:797][520]LogSavePackage: Moving '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Saved/ThirdPersonExampleMap3D5FFECB4F84ADBB5A8B239D5E001230.tmp' to '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.31-00.50.18:934][520]LogSavePackage: Moving '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Saved/ThirdPersonExampleMap_BuiltData3460D7AB45F5FBBEB70E47825073FC69.tmp' to '../../../../../../Users/jetorres/Documents/GitHub/cpsc246-project1/Project1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.10.31-00.50.18:946][520]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.31-00.50.18:946][520]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.10.31-00.50.18:946][520]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
